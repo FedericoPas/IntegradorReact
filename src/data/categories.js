@@ -1,7 +1,7 @@
 export const categories = [
     {
         id: 1,
-		img: "./src/img/categories/img1.jpg",
+		img: "./img/categories/img1.jpg",
 		ciudad: "Cataratas del Iguazú",
         pais:"Argentina",
         dias:"21",
@@ -9,7 +9,7 @@ export const categories = [
     },
     {
         id: 2,
-		img: "./src/img/categories/img2.jpg",
+		img: "./img/categories/img2.jpg",
 		ciudad: "Varsovia",
         pais:"Polonia",
         dias:"15",
@@ -17,7 +17,7 @@ export const categories = [
     },
     {
         id: 3,
-		img: "./src/img/categories/Sankt Moritz img3.jpg",
+		img: "./img/categories/Sankt Moritz img3.jpg",
 		ciudad: "Sankt Moritz",
         pais:"Suiza",
         dias:"21",
@@ -26,7 +26,7 @@ export const categories = [
     ,
     {
         id: 4,
-		img: "./src/img/categories/canada toronto img4.jpeg",
+		img: "./img/categories/canada toronto img4.jpeg",
 		ciudad: "Toronto",
 		pais:"Canada",
         dias:"23",
@@ -35,7 +35,7 @@ export const categories = [
     ,
     {
         id: 5,
-		img: "./src/img/categories/canarias img5.jpeg",
+		img: "./img/categories/canarias img5.jpeg",
 		ciudad: "Islas Canarias",
 		pais:"España",
         dias:"10",
@@ -43,7 +43,7 @@ export const categories = [
     },
     {
         id: 6,
-		img: "./src/img/categories/tokio img6.jpg",
+		img: "./img/categories/tokio img6.jpg",
 		ciudad: "Tokio",
 		pais:"Japon",
         dias:"21",
